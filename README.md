@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benny00000
+- 👋 Hi, I’m b1n0y.
 - 👀 I’m interested in reverse engineering.
 - 🌱 I’m currently learning pe,elf and macho.
 - 💞️ I’m looking to collaborate on nil.
