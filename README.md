@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benny00000
 - 👀 I’m interested in reverse engineering.
 - 🌱 I’m currently learning pe,elf and macho.
-- 💞️ I’m looking to collaborate on jailbreak iPhone.
+- 💞️ I’m looking to collaborate on nil.
 - 📫 How to reach me nil.
 
 <!---
