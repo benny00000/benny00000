@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dssyyf.
+- 👋 Hi, I’m dsybsr.
 - 👀 I’m interested in reverse engineering.
 - 🌱 I’m currently learning pe,elf and macho.
 - 💞️ I’m looking to collaborate on nil.
